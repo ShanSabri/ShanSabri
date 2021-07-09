@@ -1,4 +1,8 @@
-### Hi there 👋
+- 💻🔬 I'm currently developing tools and software that can aid in next-generation immunotherapies
+- 📫 How to reach me: [linkedin][linkedin-link] 
+ 
+[linkedin-link]: https://www.linkedin.com/in/ShanSabri/
+
 
 <!--
 **ShanSabri/ShanSabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
