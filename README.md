@@ -1,4 +1,4 @@
-- 💻🔬 I'm currently developing tools and software that can aid in next-generation immunotherapies
+- 💻🔬 I'm currently developing tools and software that can aid in NGS data interpretation, specifically with a focus on single-cell modalities.
 - 📫 How to reach me: [linkedin][linkedin-link] 
  
 [linkedin-link]: https://www.linkedin.com/in/ShanSabri/
